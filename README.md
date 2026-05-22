@@ -1,3 +1,5 @@
+![storefront](./public/banner.svg)
+
 # 👟 SoleSwap - Modern E-Commerce Marketplace
 
 A full-stack, type-safe marketplace storefront built using the **T3 Stack**. Designed for high-performance e-commerce, it features secure user authentication, complex data relationships, and a reactive UI.
